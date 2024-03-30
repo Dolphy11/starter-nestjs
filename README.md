@@ -1,4 +1,4 @@
-# NestJS Typescript template for Cyclic
+# NestJS Typescript template for good Cyclic
 
 [![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://deploy.cyclic.app/)
 
